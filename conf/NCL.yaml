@@ -1,6 +1,6 @@
-training.set: ./dataset/yelp2018/train.txt
+training.set: ./dataset/weighted_train.txt
 
-test.set: ./dataset/yelp2018/test.txt
+test.set: ./dataset/weighted_test.txt
 
 model:
   name: NCL
